@@ -12,6 +12,8 @@ The non-commercial limitation makes ASL incompatible with the GPL and other open
 
 The non-commercial restriction is an integral part of the license and you may not remove it without the consent of the rights holder in the ASL licensed code. Please contact __the original licensor__ for any questions and/or to enquire about commercial use rights. 
 
+This license text here is hereby licensed to you under ASL, i.e. under its own terms. 
+
 *The changes to the GPLv2 are: removing the Preamble, replacing the reference to the “General Public License” in clause 0 with a reference to the “ASL”, removing clause 9 and adding clause 13 with the non-commercial restriction and limited patent grant
 
 ## TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
